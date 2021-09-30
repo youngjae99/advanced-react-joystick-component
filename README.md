@@ -1,4 +1,4 @@
-## React Joystick Component
+## Advanced React Joystick Component
 
 [![Build Status](https://travis-ci.org/elmarti/react-joystick-component.svg?branch=master)](https://travis-ci.org/elmarti/react-joystick-component)
 
